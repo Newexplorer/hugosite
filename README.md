@@ -1,1 +1,1 @@
-# hugosite
+# quicksite
